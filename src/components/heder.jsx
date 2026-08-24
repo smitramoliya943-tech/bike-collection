@@ -173,7 +173,7 @@ function Header() {
                     <div className="search-box">
                         <input
                             type="text"
-                            placeholder="Search cars..."
+                            placeholder="Search bikes..."
                         />
 
                         <button className="search-btn"> 🔍 </button>
